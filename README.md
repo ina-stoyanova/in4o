@@ -4,13 +4,13 @@
 
 **How the repo name is pronounced:** in-ch-oh
 
-**AND role:** Product Developer
+**Curent role:** DevSecOps Lead (Consultant) on RW
+
+****
 
 **AND title:** Aiki Foolosopher
 
-
-_N.B.: This is actually work in progress, so feedback and questions are most welcome :) I'd call it evolution, adaptation and uncovering pieces of yourself._
-
+_N.B.: This is actually work in progress, so feedback and questions are most welcome :)_
 
 # What my HBDI looks like. HBDI.. what?
 
@@ -30,7 +30,8 @@ _How I like to roll in a team_
 - I **love being a Scrum Master** - I get to do the above even more, getting a chance to work with people from a different angle. 
 - I prefer **honest feedback, on the spot, in the situation**, rather than playing nice. It's not an easy thing to do, so before starting to work with someone, I will bring it up 100%.
 - I work best when the **team is in sync**. I know, I know that's very subjective and not easy, but when it happens - you'll know it. 
-- I don't like changing focus too many times, but can deal with it. 
+- I don't like changing focus too many times, but have been in positions, where consulting on different teams requires it inevitably. 
+- I take ownership and responsibility when no one else does. It's in my nature - I like to be in control of the situation, but I've learned that delegation is part of leading a team and being responsible. 
 
 # Feedback
 I think it's crucial to development. It's there for a reason and... 
@@ -47,17 +48,18 @@ Conflicts are constructive, but again intention and attitude is everything. I wo
 **The best way to win a war is not to be in a war.** 
 
 # Favourite work environment 
+- Interesting challenge, product that helps others or society
 - Good music and chilled vibes
 - Not too loud, not too many distractions
 - Team collectiveness atmosphere - shared ideals and understanding helps, but diversity also does help
 - Coffee/Tea breaks
 - Random chat 
-- Healthy Competition 
+- Healthy competition 
 - Friendly faces with jokes and banter
 - Short, focused meetings
 - Inclusiveness of the team, but not being pushy
 
-# What stresses me out (as found recently)
+# What doesn't work for me
 - not having a clear understanding of what's the goal at hand when doing any sort of tasks
 - non-stop pairing for the sake of pair programming 
 - people not making a clear cut decision 
@@ -72,15 +74,15 @@ I've been told I've got a soft leadership style, but this is my view of me in th
 - As the usual - I love to experiment 
 - I like to get my hands dirty 
 - I try to understand everything myself but know it's an impossible task
-- I want guidance and feedback when I am in a more leading role
-- I use push back and alternative opinions to keep me going
-- I need a challenge to get into the super-proactive mode
+- I want guidance and feedback from people around me 
+- I need problems to solve 
+- I like to help people and that gives me best feeling of justice and for me it's part of being a good mentor and a leader
 
 # My career goals
-I've got 3. For good luck. For the next short-term. _Now's the time to say I find time concept unnecessary, but usufeul sometimes._
+I've got 3. For good luck. 
 
-- Become a senior backend software engineer /a.k.a soltion architect/
-- Specialise in DevOps, Systems administration, security and automation
-- Teaching kids and getitng into mentoring/helping people - I'm more flexible and ad-hoc with this one. 
+- Specialise in DevOps, Systems administration, security and automation [DONE]
+- Become a senior backend software engineer /a.k.a soltion architect/ [DONE] - comes inevitably with being a lead infrastructure engineer/devsecops lead (dependong on the project) - I end up needing to influence the architecture so that it meets good maturity and security standards.
+- Teaching kids and getitng into mentoring/helping people - I'm more flexible and ad-hoc with this one [IN PROGRESS]
 
 # Thank you for reading this. I will keep updating it, but any suggestions or questions will be appreciated and taken onboard!
